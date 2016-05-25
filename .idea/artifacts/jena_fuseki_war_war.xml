@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jena-fuseki-war:war">
+    <output-path>$PROJECT_DIR$/../jena-3.0.1/jena-fuseki2/jena-fuseki-war/target</output-path>
+    <root id="archive" name="jena-fuseki-war-2.3.1.war">
+      <element id="artifact" artifact-name="jena-fuseki-war:war exploded" />
+    </root>
+  </artifact>
+</component>

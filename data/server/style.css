@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    border: none;
+    color: #333;
+}
+#queryform {
+    white-space: nowrap;
+}
+#querytext {
+    padding: 30px;
+    border: rgba(0, 188, 212, 0.28) solid 5px;
+    border-radius: 5px;
+    width: 1100px;
+    font-size: 36px;
+    letter-spacing: 2px;
+    color: #333;
+    margin: 10px 50px;
+}
+#querybtn {
+    width: 100px;
+    height: 100px;
+    font-size: 24px;
+    color: #333;
+    border-radius: 100px;
+    background-color: rgba(0, 188, 212, 0.28);
+    cursor: pointer;
+}
+#result > div {
+    border-bottom: #aaa solid 1px;
+    font-size: 24px;
+    margin: 20px 50px;
+    color: #333;
+}
+#errormsg {
+    border-bottom: none !important;
+    font-size: 24px;
+    margin: 20px 50px;
+    color: #333;
+}

@@ -1,0 +1,5 @@
+[
+  {"word":"successor","pattern":"?x p:P39 ?sa . ?sa ps:P39 ?a . ?sa pq:P1545 ?ord . ?y p:P39 ?sb . ?sb ps:P39 ?a . ?sb pq:P1545 ?ord2 . FILTER(xsd:integer(?ord) + 1 = xsd:integer(?ord2))."},
+  {"word":"in","pattern":""},
+  {"word":"by","pattern":"?x wdt:P50 ?y."}
+]

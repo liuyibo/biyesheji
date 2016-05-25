@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jena-3.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jena-arq-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-base-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-core-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-iri-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-shaded-guava-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jena-tdb-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis-1.4.01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

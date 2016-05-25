@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="stanford-corenlp-3.6.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/stanford-corenlp-3.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/stanford-english-corenlp-2016-01-10-models.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jollyday.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/protobuf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-simple.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ejml-0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/stanford-corenlp-3.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jollyday-0.4.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.json-api-1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stanford-corenlp-3.6.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ejml-0.23-src.zip!/ejml-0.23/benchmarks/src" />
+      <root url="jar://$PROJECT_DIR$/lib/ejml-0.23-src.zip!/ejml-0.23/benchmarks/test" />
+      <root url="jar://$PROJECT_DIR$/lib/ejml-0.23-src.zip!/ejml-0.23/examples/src" />
+      <root url="jar://$PROJECT_DIR$/lib/ejml-0.23-src.zip!/ejml-0.23/examples/test" />
+      <root url="jar://$PROJECT_DIR$/lib/ejml-0.23-src.zip!/ejml-0.23/experimental/src" />
+      <root url="jar://$PROJECT_DIR$/lib/ejml-0.23-src.zip!/ejml-0.23/experimental/test" />
+      <root url="jar://$PROJECT_DIR$/lib/ejml-0.23-src.zip!/ejml-0.23/src" />
+      <root url="jar://$PROJECT_DIR$/lib/ejml-0.23-src.zip!/ejml-0.23/test" />
+      <root url="jar://$PROJECT_DIR$/lib/xom-1.2.10-src.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
